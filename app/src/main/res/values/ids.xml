@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView6" type="id" />
+    <item name="nametitle" type="id" />
+    <item name="nameinfo1" type="id" />
+    <item name="dateofbirth1" type="id" />
+    <item name="emailtitle1" type="id" />
+    <item name="emailinfo1" type="id" />
+    <item name="titlekms" type="id" />
+    <item name="kms" type="id" />
+    <item name="area" type="id" />
+    <item name="licensetitle1" type="id" />
+    <item name="spinnerlicense" type="id" />
+    <item name="textView7" type="id" />
+    <item name="editTextTextPersonName5" type="id" />
+    <item name="editTextTextPersonName6" type="id" />
+    <item name="textView8" type="id" />
+    <item name="editTextTextPersonName7" type="id" />
+    <item name="editTextTextPersonName8" type="id" />
+    <item name="imageView5" type="id" />
+    <item name="textView4" type="id" />
+    <item name="editTextTextPersonName9" type="id" />
+    <item name="editTextTextPersonName10" type="id" />
+    <item name="textView9" type="id" />
+    <item name="editTextTextPersonName11" type="id" />
+    <item name="movingstarttitle" type="id" />
+    <item name="movingstart" type="id" />
+    <item name="movingendtitile" type="id" />
+    <item name="movingend" type="id" />
+    <item name="nofmovers" type="id" />
+    <item name="nofboxes" type="id" />
+</resources>
