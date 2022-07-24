@@ -1,7 +1,7 @@
 # ByblosApp
 Mock rental application developed by students at The University of Ottawa.
 
-Group name's and student number :
+Group name's:
 
 Brook Goitom,
 Youssef Chouay, 
